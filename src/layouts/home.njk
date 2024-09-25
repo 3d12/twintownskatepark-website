@@ -1,0 +1,63 @@
+---
+layout: base
+---
+
+<header class="hero">
+  <div class="hero-content">
+    <div class="intro">
+      {{ content | safe }}
+    </div>
+
+    {% if site.socialLinks and site.displaySocialLinksInHero == true %}
+      <ul class="hero__social-links">
+        {% for item in site.socialLinks %}
+          {% set externalAttribute = '' %}
+
+          {% if item.external %}
+            {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
+          {% endif %}
+
+          <li>
+            <a href="{{ item.url | url }}" {{ externalAttribute | safe }}>{{ item.text }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+
+</header>
+
+{% if site.infoSections %}
+<section class="info-section__wrapper">
+{% for infoSection in site.infoSections %}
+  {% if infoSection.id %}
+    <div class="{{infoSection.id}}">
+  {% endif %}
+  <article {{ "reversed" if loop.index % 2 == 0 }} class="info-section__content">
+  {% if infoSection.text %}
+  <div class="info-section__text">
+  {% if infoSection.header %}
+    <h2>{{infoSection.header}}</h2>
+  {% endif %}
+  {% for paragraph in infoSection.text.split('\n') %}
+    <p>{{paragraph | safe}}</p>
+    {% if infoSection.author %}
+      <div class="info-section__author">
+      <p>- {{infoSection.author}}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+  {% endif %}
+  {% if infoSection.image %}
+    <div class="info-section__image">
+    <a href="{{infoSection.image}}"><img src="{{infoSection.image}}"></a>
+    </div>
+  {% endif %}
+  </article>
+  {% if infoSection.id %}
+    </div>
+  {% endif %}
+{% endfor %}
+</section>
+{% endif %}

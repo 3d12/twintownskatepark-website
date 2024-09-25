@@ -1,0 +1,81 @@
+{
+  "name": "Twin Town Skate Park",
+  "description": "A simple static website for the Twin Town Skate Park.",
+  "url": "https://twintownskatepark.com",
+  "author": {
+    "name": "Twin Town Skate Park Committee",
+    "email": "twintownskatepark@gmail.com",
+    "address": {
+      "text": "630 6th St N, Breckenridge, MN 56520",
+      "link": "https://maps.app.goo.gl/twWQsadsYN271PU57"
+    }
+  },
+  "defaultSocialImage": "/images/default-social-image.png",
+  "bannerImage": "/images/Elonged Letterhead_trimmed_whitebg.png",
+  "displayContactInfoInHeader": true,
+  "displayContactInfoInFooter": true,
+  "displaySocialLinksInHero": false,
+  "socialLinks": [
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/twintownskatepark",
+      "external": true
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/3d12/twintownskatepark-website",
+      "external": true
+    }
+  ],
+  "showFooterAttribution": true,
+  "infoSections": [
+    {
+      "id": "our-story",
+      "header": "Our Story",
+      "text": "The Twin Town Skatepark in Breckenridge is a great place to be active, build friendships, and learn new skills. The skatepark construction is divided into four phases, with Phase 1 already completed!\nIn 2013, a local teen skater and his mom had the vision for the Twin Town Skatepark and started fundraising to accomplish their goal. Along with the help of other dedicated youth and adults, their dream became a reality in November of 2015 when Phase 1 of the park was completed. Phase 1 continues to make a positive impact in its surrounding areas and has sparked an interest in skateboarding and scootering in our community.\nWith the Twin Town Skatepark having four phases, there has always been the question: when will the next phase be complete? In 2023, a group of local youth and adults presented an answer...",
+      "image": "/images/skater .png"
+    },
+    {
+      "id": "fundraiser-photo-1",
+      "image": "/images/20240914_125548.jpg"
+    },
+    {
+      "id": "quote-1",
+      "text": "<i>\"When I first started skating, there were some guys from Fergus Falls at the Twin Town Skatepark that helped me adjust my wheels and trucks, gave advice, and encouraged me. It was a great experience.\"</i>",
+      "author": "Local Skater"
+    },
+    {
+      "id": "skatepark-concept",
+      "image": "/images/Twin Town Skatepark Concept.jpg"
+    },
+    {
+      "id": "next-steps",
+      "header": "Next Steps",
+      "text": "The Twin Town Skatepark Phase 2 Committee was formed in October of 2023 with the goal of building Phase 2. Since then, they have been fundraising, reaching out to the community, and rallying support.\nPhase 2 is a bowl which will cost $140,000, and as of September 2024, $37,000 has been raised. The committee is very grateful for the help of local businesses, community members, and organizations that have generously donated to this project.\nWe realize that we can't do this on our own-we need the support of people that see our vision and have a desire to make a difference in the lives of youth.\nWill you help us make Phase 2 of the Twin Town Skate Park a reality? Join our list of <a href=\"/sponsors\">Phase 2 Sponsors</a> today!\n<i>If you would like to send a check, checks are payable <u>ONLY</u> to:</i><div class=\"donate-address\">\nTwin Town Skatepark\nc/o: City of Breckenridge\n420 Nebraska Ave.\nBreckenridge, MN, 56520</div>",
+      "image": "/images/20240914_134018.jpg"
+    },
+    {
+      "id": "quote-2",
+      "text": "<i>\"We are very excited about the opportunity to expand our skatepark in Breckenridge. Giving our kids active things to do is an important component to keep them from engaging in risky behaviors. Skateparks draw people to a community and support the youth who live there.\"</i>",
+      "author": "Rebekah Christensen, Director of Richland-Wilkin Kinship Youth Mentoring"
+    },
+    {
+      "id": "quote-3",
+      "text": "<i>\"The skate park is something that a variety of ages can enjoy. People actually come from other cities to use this park. It is nice to see it being used, but the park could definitely benefit from an expansion.\"</i>",
+      "author": "Chief Kris Karlgaard, Breckenridge Police Department",
+      "image": "/images/6R4A4484 (1).jpg"
+    },
+    {
+      "id": "why-donate",
+      "header": "Why Should I Donate?",
+      "text": "<ul><li>Skateparks allow youth who aren’t drawn to traditional team sports to express themselves individually in an athletic manner, while gaining the confidence to do well in other aspects of their lives.</li><li>Skateboarding, scootering, and biking help youth develop a healthy future by building a habitual desire for physical recreation.</li><li>Skateparks also deter youth from skating in restricted areas and damaging public property - they provide a safe place to skate.</li><li>Your support will have a lasting, positive impact on the youth of the Breckenridge-Wahpeton community for years to come.</li></ul>",
+      "image": "/images/IMG_6647.JPG"
+    },
+    {
+      "id": "mission-statement",
+      "header": "Mission Statement",
+      "text": "<i><b>Our mission is to bring a high quality, well-designed and well-built skatepark to the twin town area for people of all ages and skill levels. Skateparks provide a safe place for youth to pursue healthy, active recreation, while attracting families to our community.</b></i>",
+      "image": "/images/FullSizeRender.jpg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+@import 'global.css';
+@import 'variable.css';
+@import 'typography.css';
+@import 'hero.css';
+@import 'header.css';
+@import 'footer.css';
+@import 'info-section.css';
+@import 'contact-info.css';
+@import 'sponsors.css';
+@import 'not-found.css';
+
+.layout-wrapper {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr) auto;
+  min-height: 100%;
+}
+
+.main {
+  display: flex;
+  padding-bottom: 4rem;
+  flex-direction: column;
+  min-width: 0;
+  max-width: 65rem;
+  margin-left: auto;
+  margin-right: auto;
+  background: var(--background-accent-color);
+}
+
+.mission-statement p {
+  font-size: var(--text-xl);
+}
+
+.our-story img {
+  max-height: 36rem;
+  object-position: left 25%;
+}
+
+.next-steps img {
+  max-height: 40rem;
+  object-position: left 40%;
+}
+
+.next-steps .donate-address p {
+  font-style: italic;
+  margin-top: 0;
+}
+
+.quote-3 img {
+  max-height: 36rem;
+  object-position: left 40%;
+}
+
+.why-donate img {
+  object-position: left 10%;
+}
+
+.skatepark-concept img {
+  object-fit: fill;
+  max-height: 100%;
+}

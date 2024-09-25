@@ -1,0 +1,31 @@
+.sponsors {
+  margin: 2rem;
+}
+
+.sponsors > * + * {
+  margin-top: 4rem;
+}
+
+.sponsors > * {
+  margin-left: 3rem;
+  margin-right: 3rem;
+  background-color: var(--background);
+  padding: 1rem;
+}
+
+.sponsors h2 {
+  padding: 2rem;
+  font-weight: bold;
+}
+
+.sponsors h3 {
+  font-weight: bold;
+  width: 50%;
+  border-bottom: 1px solid var(--background-accent-color);
+}
+
+.sponsors ul {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: 1rem;
+}

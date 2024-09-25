@@ -1,0 +1,33 @@
+.contact-info__email {
+  display: flex;
+  gap: 8px;
+}
+
+.contact-info__address {
+  display: flex;
+  gap: 8px;
+}
+
+.contact-info__email > svg,
+.contact-info__address > svg,
+.contact-info__twitter > svg,
+.contact-info__facebook > svg {
+  margin: 2px;
+  max-height: 24px;
+}
+
+.contact-info__email > a,
+.contact-info__address > p,
+.contact-info__twitter > p,
+.contact-info__facebook > p {
+  font-size: var(--text-sm);
+}
+
+@media (--viewport-small) {
+  .contact-info__email > a,
+  .contact-info__address > p,
+  .contact-info__twitter > p,
+  .contact-info__facebook > p {
+    font-size: var(--text-xs);
+  }
+}

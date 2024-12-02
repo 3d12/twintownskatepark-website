@@ -58,3 +58,27 @@
   object-fit: fill;
   max-height: 100%;
 }
+
+.time-sensitive-donation-ask .info-section__text {
+  flex: 1;
+  margin-left: 6rem;
+  text-align: center;
+}
+
+.time-sensitive-donation-ask .info-section__text h1 {
+  font-weight: bold;
+}
+
+.time-sensitive-donation-ask .info-section__text > * + h1 {
+  margin-top: 0;
+}
+
+.time-sensitive-donation-ask .donation-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.time-sensitive-donation-ask .donation-links > a {
+  font-size: var(--text-4xl);
+}

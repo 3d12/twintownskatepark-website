@@ -31,7 +31,7 @@
   "infoSections": [
     {
       "id": "time-sensitive-donation-ask",
-      "text": "<h1>Donate now to double your impact!</h1>\n<div class=\"donation-links\"><a href=\"https://www.zeffy.com/en-US/fundraising/donate-to-twin-town-skatepark-phase-2-match-grant\">Zeffy</a> <a href=\"https://www.paypal.com/ncp/payment/TRDW5KFXQJW5L\">PayPal</a> <a href=\"https://venmo.com/wecarecoalition\">Venmo</a></div>"
+      "text": "<h1>Donate now to double your impact!</h1>\n<div class=\"donation-links\"><a href=\"https://www.zeffy.com/en-US/fundraising/donate-to-twin-town-skatepark-phase-2-match-grant\">Zeffy (Preferred)</a><br /><a href=\"https://www.paypal.com/ncp/payment/TRDW5KFXQJW5L\">PayPal</a> <a href=\"https://venmo.com/wecarecoalition\">Venmo</a></div>"
     },
     {
       "id": "our-story",

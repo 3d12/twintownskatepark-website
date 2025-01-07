@@ -30,8 +30,10 @@
   "showFooterAttribution": true,
   "infoSections": [
     {
-      "id": "time-sensitive-donation-ask",
-      "text": "<h1>Donate now to double your impact!</h1>\n<div class=\"donation-links\"><a href=\"https://www.zeffy.com/en-US/fundraising/donate-to-twin-town-skatepark-phase-2-match-grant\">Zeffy (Preferred)</a><br /><a href=\"https://www.paypal.com/ncp/payment/TRDW5KFXQJW5L\">PayPal</a> <a href=\"https://venmo.com/wecarecoalition\">Venmo</a></div>"
+      "id": "funding-update-jan-2025",
+      "header": "Funding Update as of 1/6/2025",
+      "text": "Thank you to everybody who has donated to our Phase 2 project this past year! A special thank you to all those who participated in our December 2024 matching grant campaign. We were able to raise a total of $7,165 for the December Matching Grant Challenge, and so we are excited to add another $7,165 to our goal, thanks to a very generous donor!\nIf you are still interested in giving, creating a matching grant challenge of your own, or are interested in helping us fundraise, every dollar is getting us closer to building Phase 2, and is an investment in the Breckenridge/Wahpeton community.\nDonations can be made online on Zeffy (<a href=\"https://www.zeffy.com/peer-to-peer/make-phase-2-of-twin-town-skate-park-a-reality\">link</a>) or checks can be mailed to:<div class=\"donate-address\">\nTwin Town Skatepark\nc/o: City of Breckenridge\n420 Nebraska Ave.\nBreckenridge, MN, 56520</div>\nIf you have any questions, please feel free to contact us at <a href=\"mailto:twintownskatepark@gmail.com\">twintownskatepark@gmail.com</a>.",
+      "image": "/images/6R4A4180 (1).jpg"
     },
     {
       "id": "our-story",
@@ -55,7 +57,7 @@
     {
       "id": "next-steps",
       "header": "Next Steps",
-      "text": "The Twin Town Skatepark Phase 2 Committee was formed in October of 2023 with the goal of building Phase 2. Since then, they have been fundraising, reaching out to the community, and rallying support.\nPhase 2 is a bowl which will cost $140,000, and as of September 2024, $37,000 has been raised. The committee is very grateful for the help of local businesses, community members, and organizations that have generously donated to this project.\nWe realize that we can't do this on our own-we need the support of people that see our vision and have a desire to make a difference in the lives of youth.\nWill you help us make Phase 2 of the Twin Town Skate Park a reality? Join our list of <a href=\"/sponsors\">Phase 2 Sponsors</a> today!\nDonate via Zeffy (preferred): <a href=\"https://www.zeffy.com/en-US/fundraising/donate-to-twin-town-skatepark-phase-2-match-grant\">Zeffy</a>\nDonate via Venmo: <a href=\"https://venmo.com/wecarecoalition\">Venmo</a>\nDonate via PayPal: <a href=\"https://www.paypal.com/ncp/payment/TRDW5KFXQJW5L\">PayPal</a>\n<i>If you would like to send a check, checks are payable <u>ONLY</u> to:</i><div class=\"donate-address\">\nTwin Town Skatepark\nc/o: City of Breckenridge\n420 Nebraska Ave.\nBreckenridge, MN, 56520</div>",
+      "text": "The Twin Town Skatepark Phase 2 Committee was formed in October of 2023 with the goal of building Phase 2. Since then, they have been fundraising, reaching out to the community, and rallying support.\nPhase 2 is a bowl which will cost $140,000, and as of January 2025, $44,000 has been raised. The committee is very grateful for the help of local businesses, community members, and organizations that have generously donated to this project.\nWe realize that we can't do this on our own-we need the support of people that see our vision and have a desire to make a difference in the lives of youth.\nWill you help us make Phase 2 of the Twin Town Skate Park a reality? Join our list of <a href=\"/sponsors\">Phase 2 Sponsors</a> today!\n<i>If you would like to send a check, checks are payable <u>ONLY</u> to:</i><div class=\"donate-address\">\nTwin Town Skatepark\nc/o: City of Breckenridge\n420 Nebraska Ave.\nBreckenridge, MN, 56520</div>",
       "image": "/images/20240914_134018.jpg"
     },
     {

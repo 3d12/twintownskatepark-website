@@ -40,7 +40,7 @@
   object-position: left 40%;
 }
 
-.next-steps .donate-address p {
+.donate-address p {
   font-style: italic;
   margin-top: 0;
 }
@@ -59,27 +59,10 @@
   max-height: 100%;
 }
 
-.time-sensitive-donation-ask .info-section__text {
-  flex: 1;
-  margin-left: 6rem;
-  text-align: center;
+.funding-update-jan-2025 .info-section__text {
+  flex: 1.2;
 }
 
-.time-sensitive-donation-ask .info-section__text h1 {
-  font-weight: bold;
-}
-
-.time-sensitive-donation-ask .info-section__text > * + h1 {
-  margin-top: 0;
-}
-
-.time-sensitive-donation-ask .donation-links {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  gap: 20px;
-}
-
-.time-sensitive-donation-ask .donation-links > a {
-  font-size: var(--text-4xl);
+.funding-update-jan-2025 img {
+  max-height: none;
 }

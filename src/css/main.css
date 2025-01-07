@@ -65,4 +65,7 @@
 
 .funding-update-jan-2025 img {
   max-height: none;
+  height: 100%;
+  width: 100%;
+  object-position: 50% 50%;
 }

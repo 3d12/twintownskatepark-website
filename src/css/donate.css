@@ -1,12 +1,11 @@
 .donate {
-  width: 90vw;
+  width: min(90vw,65rem);
   height: 100%;
   display: flex;
   flex-direction: column;
 }
 
 .donate > * {
-  width: 80%;
   height: 1700px;
   margin-left: 10%;
   margin-right: 10%;

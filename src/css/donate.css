@@ -1,0 +1,25 @@
+.donate {
+  width: 90vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.donate > * {
+  width: 80%;
+  height: 1700px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+@media (--viewport-small) {
+  .donate {
+    width: 100vw;
+  }
+
+  .donate > * {
+    width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

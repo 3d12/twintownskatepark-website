@@ -12,9 +12,26 @@
   },
   "defaultSocialImage": "/images/Elonged Letterhead_trimmed_whitebg.png",
   "bannerImage": "/images/Elonged Letterhead_trimmed_whitebg.png",
-  "displayContactInfoInHeader": true,
+  "displayContactInfoInHeader": false,
   "displayContactInfoInFooter": true,
   "displaySocialLinksInHero": false,
+  "headerLinks": [
+    {
+      "text": "Donate",
+      "url": "/donate",
+      "external": false
+    },
+    {
+      "text": "Sponsors",
+      "url": "/sponsors",
+      "external": false
+    },
+    {
+      "text": "Contact",
+      "url": "#contact-footer",
+      "external": false
+    }
+  ],
   "socialLinks": [
     {
       "text": "Facebook",

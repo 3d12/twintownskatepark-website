@@ -1,0 +1,35 @@
+---
+layout: base
+permalink: /sponsors/
+title: 'Sponsors'
+---
+
+<div class="sponsors">
+{% if sponsors.headerText %}
+<h2>{{ sponsors.headerText }}</h2>
+{% endif %}
+
+{% if sponsors.tiers %}
+{% for tier in sponsors.tiers %}
+
+{% if tier.images %}
+{% for image in tier.images %}
+<img class="image__{{ tier.id }}" src="{{ image.url }}" alt="{{ image.altText }}" />
+{% endfor %}
+{% endif %}
+<div class="sponsors__{{ tier.id }}">
+<h3>{{ tier.name }}</h3>
+<ul>
+{% for donor in tier.donors %}
+<li>{{ donor }}</li>
+{% endfor %}
+</ul>
+</div>
+{% endfor %}
+{% endif %}
+</div>
+
+{% if sponsors.lastUpdated %}
+<br />
+<i>Last updated {{ sponsors.lastUpdated }}</i>
+{% endif %}

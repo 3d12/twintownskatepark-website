@@ -1,0 +1,83 @@
+{
+  "headerText": "Huge thanks to all of our Phase 2 sponsors!",
+  "lastUpdated": "1/24/2025",
+  "tiers": [
+    {
+      "id": "platinum",
+      "name": "Platinum ($2,000+)",
+      "donors": [
+        "Kurt and Trista Hodges & friends",
+        "Allen Yaggie and Alisa Mitskog, and Jeff Yaggie Family",
+        "James Anderson-Anderson Accounting",
+        "Wilkin County Children’s Collaborative",
+        "Richland-Wilkin Community Foundation"
+      ],
+      "images": [
+        {
+          "url": "/images/Platinum Sponsor RW Community Foundation.jpg",
+          "altText": "Platinum Sponsor Richland-Wilkin Community Foundation"
+        },
+        {
+          "url": "/images/Platinum Sponsor Kurt&Trista H..jpg",
+          "altText": "Platinum Sponsor Kurt & Trista H."
+        }
+      ]
+    },
+    {
+      "id": "gold",
+      "name": "Gold ($1,000-1,999)",
+      "donors": [
+        "We Care Coalition of Breckenridge and Wilkin County",
+        "Breckenridge Active Living Committee"
+      ]
+    },
+    {
+      "id": "silver",
+      "name": "Silver ($500-$999)",
+      "donors": [
+        "Breckenridge Lion’s Club",
+        "Red River Communications’ Common Cents",
+        "Cargill",
+        "Shavonne Wilke",
+        "With the Wind Vineyard & Winery"
+      ],
+      "images": [
+        {
+          "url": "/images/Silver Sponsor Red River Communications.jpg",
+          "altText": "Platinum Sponsor Red River Communications"
+        }
+      ]
+    },
+    {
+      "id": "bronze",
+      "name": "Bronze ($100-$499)",
+      "donors": [
+          "H&R Block",
+          "Minn-Dak Farmer’s Cooperative",
+          "Marissa Moxness",
+          "Cynthia Schreiber-Beck",
+          "Zach Construction",
+          "Berger Body and Glass",
+          "Carpro Inc.",
+          "Schmitty’s Plumbing and Heating",
+          "Breckenridge Fire Department-Relief Assn.",
+          "Heartland Insurance",
+          "Dakota Cabinetry",
+          "State Farm Insurance",
+          "Com Del",
+          "Roger and Linda Johnson",
+          "Dorthy Rakow",
+          "River of Life Community Fellowship",
+          "Jason & Rita Lofberg",
+          "Frank & Louise Maixner",
+          "James & Kari Jawaski",
+          "Green Apple Cannabis",
+          "Dave & Janel Sayler",
+          "Stefani Mikkelson",
+          "Rebekah Christensen",
+          "Red River Agency, Inc.",
+          "Marlys Lofberg"
+      ]
+    }
+  ]
+}

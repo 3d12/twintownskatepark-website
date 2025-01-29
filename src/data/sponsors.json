@@ -15,11 +15,11 @@
       "images": [
         {
           "url": "/images/Platinum Sponsor RW Community Foundation.jpg",
-          "altText": "Platinum Sponsor Richland-Wilkin Community Foundation"
+          "caption": "Platinum Sponsor Richland-Wilkin Community Foundation"
         },
         {
           "url": "/images/Platinum Sponsor Kurt&Trista H..jpg",
-          "altText": "Platinum Sponsor Kurt & Trista H."
+          "caption": "Platinum Sponsor Kurt & Trista H."
         }
       ]
     },
@@ -44,7 +44,7 @@
       "images": [
         {
           "url": "/images/Silver Sponsor Red River Communications.jpg",
-          "altText": "Platinum Sponsor Red River Communications"
+          "caption": "Platinum Sponsor Red River Communications"
         }
       ]
     },

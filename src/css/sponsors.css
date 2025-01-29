@@ -30,6 +30,15 @@
   margin-top: 1rem;
 }
 
+.sponsors__tier__image {
+  padding: 0;
+}
+
+.sponsors__tier__image > * {
+  margin: 0;
+  background: var(--background-accent-color);
+}
+
 .sponsors img {
   margin-left: 0;
   padding: 0;

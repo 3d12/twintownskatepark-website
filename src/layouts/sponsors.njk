@@ -14,10 +14,13 @@ title: 'Sponsors'
 
 {% if tier.images %}
 {% for image in tier.images %}
-<img class="image__{{ tier.id }}" src="{{ image.url }}" alt="{{ image.altText }}" />
+<div class="sponsors__tier__image">
+<img class="image__{{ tier.id }}" src="{{ image.url }}" alt="{{ image.caption }}" />
+<p>{{ image.caption }}</p>
+</div>
 {% endfor %}
 {% endif %}
-<div class="sponsors__{{ tier.id }}">
+<div class="sponsors__tier">
 <h3>{{ tier.name }}</h3>
 <ul>
 {% for donor in tier.donors %}

@@ -36,7 +36,7 @@ Other notable CSS files:
 
 ## License
 
-Copyright (c) 2024 Twin Town Skate Park Committee, All Rights Reserved
+Copyright (c) 2025 Twin Town Skate Park Committee, All Rights Reserved
 
 This website was constructed in part from a template which is distributed under the MIT license.
 

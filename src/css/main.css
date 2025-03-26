@@ -70,3 +70,19 @@
   width: 100%;
   object-position: 50% 50%;
 }
+
+.cta-volunteers-needed h2 {
+  text-align: center;
+  font-weight: 900;
+  text-shadow: 1px 0 #000;
+  letter-spacing: 1px;
+}
+
+.cta-volunteers-needed .info-section__text {
+  flex: 0 1 auto;
+  margin-right: 0;
+}
+
+.cta-volunteers-needed .info-section__content {
+  padding-right: 0;
+}

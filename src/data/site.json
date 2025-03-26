@@ -52,9 +52,14 @@
   "showFooterAttribution": true,
   "infoSections": [
     {
+      "id": "cta-volunteers-needed",
+      "header": "WE NEED VOLUNTEERS!",
+      "text": "We are currently looking for volunteers to help with creating content for social media and filling out grant applications! Please contact us at <a href=\"mailto:twintownskatepark@gmail.com\">twintownskatepark@gmail.com</a> if you are willing to help!"
+    },
+    {
       "id": "funding-update-mar-2025",
       "header": "Funding Update as of 3/10/2025",
-      "text": "Thank you to everybody who has donated to our Phase 2 project over 2024! A special thank you goes to to all those who participated in our December matching grant campaign. Every dollar is getting us closer to building Phase 2, and is an investment in the future of the Breckenridge/Wahpeton community. Thanks to your generosity, we were able to raise just over $7,400, and our campaign sponsor was so impressed with the local giving and efforts that they decided to match the full $15,000!\nBeing a part of our volunteer skatepark committee is a wonderful opportunity to get community work experience for job and college applications, and we would love to work with you regardless of your age or skill level. We have many different ways to get involved, including supporting us financially, writing/reviewing grants and sponsorship applications, community events and outreach, social media and promotional work, or fundraising campaigns. Feel free to reach out to us (<a href=\"mailto:twintownskatepark@gmail.com\">twintownskatepark@gmail.com</a>) with any questions or ideas. Even a little help means a lot to us and makes a huge difference!\n<b>Donations can be made online via Zeffy (<a href=\"/donate\">link</a>) or checks can be mailed to:</b><div class=\"donate-address\">\nTwin Town Skatepark\nc/o: City of Breckenridge\n420 Nebraska Ave.\nBreckenridge, MN, 56520</div>\nIf you have any questions, please feel free to contact us at <a href=\"mailto:twintownskatepark@gmail.com\">twintownskatepark@gmail.com</a>.",
+      "text": "Thank you to everybody who has donated to our Phase 2 project over 2024! A special thank you goes to to all those who participated in our December matching grant campaign. Every dollar is getting us closer to building Phase 2, and is an investment in the future of the Breckenridge/Wahpeton community. Thanks to your generosity, we were able to raise just over $7,400, and our campaign sponsor was so impressed with the local giving and efforts that they decided to match the full $15,000!\nBeing a part of our volunteer skatepark committee is a wonderful opportunity to get community work experience for job and college applications, and we would love to work with you regardless of your age or skill level. We have many different ways to get involved, including writing/reviewing grants and sponsorship applications, leading community events and outreach efforts, creating content for social media and other promotions, or creating and promoting fundraising campaigns. Feel free to reach out to us (<a href=\"mailto:twintownskatepark@gmail.com\">twintownskatepark@gmail.com</a>) with any questions or ideas. Even a little help means a lot to us and makes a huge difference!\n<b>Donations can be made online via Zeffy (<a href=\"/donate\">link</a>) or checks can be mailed to:</b><div class=\"donate-address\">\nTwin Town Skatepark\nc/o: City of Breckenridge\n420 Nebraska Ave.\nBreckenridge, MN, 56520</div>",
       "image": "/images/6R4A4180 (1).jpg"
     },
     {
@@ -68,9 +73,15 @@
       "image": "/images/20240914_125548.jpg"
     },
     {
+      "id": "mission-statement",
+      "header": "Mission Statement",
+      "text": "<i><b>Our mission is to bring a high quality, well-designed and well-built skatepark to the twin town area for people of all ages and skill levels. Skateparks provide a safe place for youth to pursue healthy, active recreation, while attracting families to our community.</b></i>"
+    },
+    {
       "id": "quote-1",
       "text": "<i>\"When I first started skating, there were some guys from Fergus Falls at the Twin Town Skatepark that helped me adjust my wheels and trucks, gave advice, and encouraged me. It was a great experience.\"</i>",
-      "author": "Local Skater"
+      "author": "Local Skater",
+      "image": "/images/FullSizeRender.jpg"
     },
     {
       "id": "skatepark-concept",
@@ -103,12 +114,6 @@
       "header": "Why Should I Donate?",
       "text": "<ul><li>Skateparks allow youth who aren’t drawn to traditional team sports to express themselves individually in an athletic manner, while gaining the confidence to do well in other aspects of their lives.</li><li>Skateboarding, scootering, and biking help youth develop a healthy future by building a habitual desire for physical recreation.</li><li>Skateparks also deter youth from skating in restricted areas and damaging public property - they provide a safe place to skate.</li><li>Your support will have a lasting, positive impact on the youth of the Breckenridge-Wahpeton community for years to come.</li></ul>",
       "image": "/images/IMG_6647.JPG"
-    },
-    {
-      "id": "mission-statement",
-      "header": "Mission Statement",
-      "text": "<i><b>Our mission is to bring a high quality, well-designed and well-built skatepark to the twin town area for people of all ages and skill levels. Skateparks provide a safe place for youth to pursue healthy, active recreation, while attracting families to our community.</b></i>",
-      "image": "/images/FullSizeRender.jpg"
     }
   ]
 }

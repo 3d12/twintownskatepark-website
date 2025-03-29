@@ -27,6 +27,11 @@
       "external": false
     },
     {
+      "text": "Volunteer",
+      "url": "/volunteer",
+      "external": false
+    },
+    {
       "text": "Contact",
       "url": "#contact-footer",
       "external": false
@@ -54,7 +59,7 @@
     {
       "id": "cta-volunteers-needed",
       "header": "WE NEED VOLUNTEERS!",
-      "text": "We are currently looking for volunteers to help with creating content for social media and filling out grant applications! Please contact us at <a href=\"mailto:twintownskatepark@gmail.com\">twintownskatepark@gmail.com</a> if you are willing to help!"
+      "text": "We are currently looking for volunteers primarily to help with creating content for social media and filling out grant applications! Please fill out our <a href=\"/volunteer\">Volunteer Application</a> if you are willing to help us with this grassroots youth-driven project!"
     },
     {
       "id": "funding-update-mar-2025",

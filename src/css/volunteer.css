@@ -1,0 +1,18 @@
+.volunteer {
+  width: min(90vw,65rem);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (--viewport-small) {
+  .volunteer {
+    width: 100vw;
+  }
+
+  .volunteer > * {
+    width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

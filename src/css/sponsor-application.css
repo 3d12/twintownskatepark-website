@@ -1,0 +1,34 @@
+.sponsor-application {
+  width: min(90vw,65rem);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.sponsor-application > * {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.sponsor-application > p,h2 {
+  margin-top: 1rem;
+}
+
+.sponsor-application > .iframe-container {
+  height: 800px;
+}
+
+@media (--viewport-small) {
+  .sponsor-application {
+    width: 100vw;
+  }
+
+  .sponsor-application > .iframe-container {
+    width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .sponsor-application > * {
+  }
+}

@@ -1,34 +1,35 @@
-.sponsor-application {
+.zeffy-event-application {
   width: min(90vw,65rem);
   height: 100%;
   display: flex;
   flex-direction: column;
 }
 
-.sponsor-application > * {
+.zeffy-event-application > * {
   margin-left: 10%;
   margin-right: 10%;
 }
 
-.sponsor-application > p,h2 {
+.zeffy-event-application > p,h2 {
   margin-top: 1rem;
 }
 
-.sponsor-application > .iframe-container {
+.zeffy-event-application > .iframe-container {
   height: 800px;
 }
 
+.zeffy-event-application > .info-section__text {
+  margin-top: 2rem;
+}
+
 @media (--viewport-small) {
-  .sponsor-application {
+  .zeffy-event-application {
     width: 100vw;
   }
 
-  .sponsor-application > .iframe-container {
+  .zeffy-event-application > .iframe-container {
     width: 100vw;
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .sponsor-application > * {
   }
 }

@@ -62,15 +62,8 @@
   max-height: 100%;
 }
 
-.funding-update-mar-2025 .info-section__text {
-  flex: 1.2;
-}
-
-.funding-update-mar-2025 img {
+.announcement-5k-on-wheels-aug-2025 img {
   max-height: none;
-  height: 100%;
-  width: 100%;
-  object-position: 50% 50%;
 }
 
 .cta-volunteers-needed h2 {
@@ -87,4 +80,8 @@
 
 .cta-volunteers-needed .info-section__content {
   padding-right: 0;
+}
+
+.footer-image img {
+  object-position: 50% 50%;
 }

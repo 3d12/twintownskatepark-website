@@ -6,9 +6,16 @@
 }
 
 .donate > * {
-  height: 1700px;
   margin-left: 10%;
   margin-right: 10%;
+}
+
+.donate > .iframe-container {
+  height: 1700px;
+}
+
+.donate > .info-section__text {
+  margin-top: 2rem;
 }
 
 @media (--viewport-small) {
@@ -16,7 +23,7 @@
     width: 100vw;
   }
 
-  .donate > * {
+  .donate > .iframe-container {
     width: 100vw;
     margin-left: 0;
     margin-right: 0;

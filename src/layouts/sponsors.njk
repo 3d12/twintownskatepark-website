@@ -5,6 +5,11 @@ title: 'Sponsors'
 ---
 
 <div class="sponsors">
+{% if sponsors.sponsorChallenge %}
+<div class="sponsors__challenge">
+<h3>Current sponsor challenge: {{ sponsors.sponsorChallenge.title }} (<a href="{{ sponsors.sponsorChallenge.link }}">more info</a>)</h2>
+</div>
+{% endif %}
 {% if sponsors.headerText %}
 <h2>{{ sponsors.headerText }}</h2>
 {% endif %}

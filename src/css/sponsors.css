@@ -43,3 +43,7 @@
   margin-left: 0;
   padding: 0;
 }
+
+.sponsors__challenge h3 {
+  width: auto;
+}

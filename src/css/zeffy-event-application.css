@@ -25,9 +25,8 @@
 .zeffy-event-application > .info-section__text > .date-info-line {
   display: flex;
   flex-direction: row;
-  gap: 16px;
+  justify-content: space-between;
   align-items: center;
-  margin-top: 1rem;
 }
 
 .zeffy-event-application > .info-section__text > .date-info-line > .calendar-box {
@@ -44,7 +43,7 @@
   padding-right: 1rem;
 }
 
-.zeffy-event-application > .info-section__text > .date-info-line > p, .zeffy-event-application > .info-section__text > .date-info-line > .calendar-box > p {
+.zeffy-event-application > .info-section__text > .date-info-line > .calendar-box > p {
   margin-top: 0;
 }
 
@@ -61,5 +60,9 @@
     width: 100vw;
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .zeffy-event-application > .info-section__text > .date-info-line {
+    flex-wrap: wrap;
   }
 }

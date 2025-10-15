@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /2025-match-grant-fundraiser/
+permalink: /end-of-year-2025-donation-drive/
 title: '2025 Match Grant Fundraiser'
 ---
 

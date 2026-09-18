@@ -64,7 +64,8 @@
     {
       "id": "announcement-2026-5k-on-wheels",
       "header": "2026 5K-on-Wheels",
-      "text": "<b>SAVE THE DATE!</b>\n\nComing up on October 19th is our 2nd annual 5K-on-Wheels! Come show your support for the park and join us for a fun evening! If you register by October 5th, you'll receive a commemorative t-shirt at the event. Sign up here: <a href=\"/2026-5k-on-wheels/participant-application/\">Participant Application</a>"
+      "text": "<h3><b>SAVE THE DATE!</b></h3>\n\nComing up on October 19th is our 2nd annual 5K-on-Wheels! Come show your support for the park and join us for a fun evening! If you register by October 5th, you'll receive a commemorative t-shirt at the event.\n\nSign up here: <a href=\"/2026-5k-on-wheels/participant-application/\">Participant Application</a>",
+      "image": "/images/2026 5K on Wheels Flyer.png"
     },
     {
       "id": "our-story",

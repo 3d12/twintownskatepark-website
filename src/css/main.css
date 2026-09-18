@@ -78,6 +78,10 @@
   padding-right: 0;
 }
 
+.announcement-2026-5k-on-wheels img {
+  max-height: none;
+}
+
 .footer-image img {
   object-position: 50% 50%;
 }
